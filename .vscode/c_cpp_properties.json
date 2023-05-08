@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/opt/eosio.cdt/1.6.2/include/eosiolib/contracts",
+                "/usr/opt/eosio.cdt/1.6.2/include/eosiolib/core",
+                "/usr/opt/eosio.cdt/1.6.2/include/eosiolib/capi",
+                "/usr/opt/eosio.cdt/1.6.2/include/eosiolib/native",
+                "/usr/opt/eosio.cdt/1.6.2/include/boost",
+                "/usr/opt/eosio.cdt/1.6.2/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-8",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}

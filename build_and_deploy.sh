@@ -1,0 +1,1 @@
+eosio-cpp contract/tokenbridge.cpp && sleep 2 && cleos set code tokenbridge tokenbridge.wasm && cleos set abi tokenbridge tokenbridge.abi
